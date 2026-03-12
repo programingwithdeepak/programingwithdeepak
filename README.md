@@ -7,7 +7,7 @@ Passionate about building scalable web applications and solving real-world probl
 ---
 
 ## 🚀 About Me
--🎓 Pursuing B.Tech in Computer Science from IMS Engineering College, Ghaziabad
+- 🎓 Pursuing B.Tech in Computer Science from **IMS Engineering College, Ghaziabad**
 - 🔭 I’m currently working on **Web Development Projects (MERN Stack)**
 - 🛡️ Built a project: **AI-Powered Cybersecurity Threat Detection Dashboard**
 - 🌱 I’m currently learning **Advanced MERN Stack & System Design**
