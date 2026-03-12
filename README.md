@@ -13,7 +13,7 @@ Passionate about building scalable web applications and solving real-world probl
 - 🌱 I’m currently learning **Advanced MERN Stack & System Design**
 - 👯 I’m looking to collaborate on **Open Source & Web Projects**
 - 💬 Ask me about **React, JavaScript, Redux, Node.js, Express, MongoDB**
-- 📫 How to reach me: **Add your email or LinkedIn here**
+- 📫 How to reach me: **deepakchaudhary7830230168@gmail.com**
 - ⚡ Fun fact: I love turning **ideas into real web applications**
 
 ---
@@ -60,14 +60,14 @@ Passionate about building scalable web applications and solving real-world probl
 
 ## 📊 GitHub Stats
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=programingwithdeepak&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn link  
-- 📧 Email: Add your email  
+- 💼 LinkedIn: https://www.linkedin.com/in/programingwithdeepak/  
+- 📧 Email: deepakchaudhary7830230168@gmail.com  
 - 🌍 Portfolio: Add your portfolio link  
 
 ---
