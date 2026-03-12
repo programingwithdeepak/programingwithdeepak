@@ -7,7 +7,7 @@ Passionate about building scalable web applications and solving real-world probl
 ---
 
 ## 🚀 About Me
-
+-🎓 Pursuing B.Tech in Computer Science from IMS Engineering College, Ghaziabad
 - 🔭 I’m currently working on **Web Development Projects (MERN Stack)**
 - 🛡️ Built a project: **AI-Powered Cybersecurity Threat Detection Dashboard**
 - 🌱 I’m currently learning **Advanced MERN Stack & System Design**
@@ -57,10 +57,9 @@ Passionate about building scalable web applications and solving real-world probl
 - Built using modern web technologies.
 
 ---
+## 💻 Top Languages
 
-## 📊 GitHub Stats
-
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=programingwithdeepak&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programingwithdeepak&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Connect With Me
@@ -71,8 +70,5 @@ Passionate about building scalable web applications and solving real-world probl
 
 ---
 
-## 💻 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programingwithdeepak&layout=compact&theme=tokyonight)
 
 ⭐ *Always learning new technologies and building impactful projects.*
