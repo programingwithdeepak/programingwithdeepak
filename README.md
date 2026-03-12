@@ -61,7 +61,6 @@ Passionate about building scalable web applications and solving real-world probl
 ## 📊 GitHub Stats
 
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=programingwithdeepak&show_icons=true&theme=tokyonight)
-
 ---
 
 ## 🌐 Connect With Me
@@ -71,5 +70,9 @@ Passionate about building scalable web applications and solving real-world probl
 - 🌍 Portfolio: Add your portfolio link  
 
 ---
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=programingwithdeepak&layout=compact&theme=tokyonight)
 
 ⭐ *Always learning new technologies and building impactful projects.*
