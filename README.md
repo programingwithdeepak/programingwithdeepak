@@ -44,8 +44,7 @@ Passionate about building scalable web applications and solving real-world probl
 ### 🧰 Tools
 - Git  
 - GitHub  
-- VS Code  
-- Postman  
+- VS Code   
 
 ---
 
@@ -66,7 +65,7 @@ Passionate about building scalable web applications and solving real-world probl
 
 - 💼 LinkedIn: https://www.linkedin.com/in/programingwithdeepak/  
 - 📧 Email: deepakchaudhary7830230168@gmail.com  
-- 🌍 Portfolio: Add your portfolio link  
+- 🌍 Portfolio: https://portfolio-programingwithdeepak.netlify.app/  
 
 ---
 
